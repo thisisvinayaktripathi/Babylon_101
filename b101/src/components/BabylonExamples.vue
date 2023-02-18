@@ -1,9 +1,7 @@
 <template>
   <div>
-    <h3>
-      Babylon Examples
-      <canvas></canvas>
-    </h3>
+    <h3>Babylon Examples</h3>
+    <canvas></canvas>
   </div>
 </template>
 
